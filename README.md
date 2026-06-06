@@ -36,7 +36,7 @@ O objetivo deste projeto é demonstrar habilidades em desenvolvimento front-end,
 
 Este projeto possui finalidade exclusivamente educacional e de portfólio. Todos os personagens, nomes e elementos relacionados à franquia Super Mario pertencem à Nintendo e seus respectivos proprietários.
 
-## Links
+## 🖇️ Links
 
 Repositório: https://github.com/luancarlos13/Projeto-Brothers
 
